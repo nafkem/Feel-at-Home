@@ -36,7 +36,7 @@ p {
 }
 
 .text-primary {
-    color: rgb(30, 125, 1);
+    color:red;
 }
 
 .lead {
@@ -55,7 +55,7 @@ p {
 }
 
 .btn:hover {
-    background: blue;
+    background: red;
     color: white;
 }
 
